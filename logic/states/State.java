@@ -1,0 +1,15 @@
+package gestorInventario.logic.states;
+
+public enum State {
+    ADICIONAR_PRODUTO,
+    ADICIONAR_USER,
+    CONSULTAR_VENDAS,
+    EDITAR_PRODUTO,
+    LOGIN,
+    PAGINA_INICIAL,
+    REGISTAR_VENDA,
+    STATUS_USER,
+    LISTA_PRODUTOS,
+    VISUALIZAR_PRODUTO,
+    VISUALIZAR_VENDAS
+}
